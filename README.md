@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # requirements_dev.txt we use for the testing
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
 
@@ -45,3 +46,6 @@ In summary, setup.cfg is used by setuptools to configure the packaging and insta
 1. pylint
 2. flake8(it is best because it containt 3 library pylint pycodestyle mccabe)
 3. pycodestyle
+=======
+# mongodbconnectorpkg
+>>>>>>> e1fad9c08e50b608e9e12d49a591170e80935368
